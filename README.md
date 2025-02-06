@@ -1,5 +1,10 @@
 # leetcode-questions
-<!---LeetCode Topics Start-->
+# LeetCode Daily Solutions
+This repository contains my daily solutions to LeetCode problems.
+## Structure
+Each day's solution is stored in a separate folder named after the problem.
+
+
 # LeetCode Topics
 ## Array
 |  |
